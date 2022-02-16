@@ -1,0 +1,6 @@
+twd -w index.html -o css/style.css
+packup index.html
+
+packup build index.html
+
+then copy past dist in ...
